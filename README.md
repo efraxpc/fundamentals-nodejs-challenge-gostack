@@ -11,4 +11,4 @@
 - [x] should not be able to create outcome transaction without a valid balance ✅ 
 
  
- ![](http://g.recordit.co/jAF88FJ6If.gif)
+ ![](http://g.recordit.co/kOAEm5CETB.gif)
