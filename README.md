@@ -1,7 +1,7 @@
 # fundamentals-nodejs-challenge-gostack
 
 ### This is a challenge where we are applying fundamentals Nodejs concepts using GoStack bootcamp guide ⚛︎
-  ## I've applied things like typescript, SOLID patterns, Don't Repeat Yourself (DRY), Data Mapper Patter, Separation of Concerns (SOC), Data Object Transfer (DTO)
+  ## I've applied things like typescript, SOLID patterns, Don't Repeat Yourself (DRY), Data Mapper Pattern, Separation of Concerns (SOC), Data Object Transfer (DTO)
 
 
 ### Tests passed
